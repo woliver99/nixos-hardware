@@ -1,0 +1,1 @@
+- [Specifications](https://www.dell.com/support/manuals/en-ca/latitude-13-3310-laptop/lati3310_setup_specs/specifications-of-latitude-3310?guid=guid-7c9f07ce-626e-44ca-be3a-a1fb036413f9&lang=en-us)
