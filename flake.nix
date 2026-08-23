@@ -384,6 +384,7 @@
           msi-gf63 = import ./msi/gf63;
           msi-gs60 = import ./msi/gs60;
           msi-gl62 = import ./msi/gl62;
+          msi-gl65 = import ./msi/gl65;
           msi-gl65-10SDR-492 = import ./msi/gl65/10SDR-492;
           msi-prestige-15-a10sc = import ./msi/prestige/15-a10sc;
           msi-z370-pc-pro = import ./msi/z370-pc-pro;
