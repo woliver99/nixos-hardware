@@ -161,6 +161,7 @@ See code for all available configurations.
 | [Dell Inspiron 7405](dell/inspiron/7405)                                          | `<nixos-hardware/dell/inspiron/7405>`                   | `dell-inspiron-7405`                   |
 | [Dell Inspiron 7460](dell/inspiron/7460)                                          | `<nixos-hardware/dell/inspiron/7460>`                   | `dell-inspiron-7460`                   |
 | [Dell Inspiron 7559](dell/inspiron/7559)                                          | `<nixos-hardware/dell/inspiron/7559>`                   | `dell-inspiron-7559`                   |
+| [Dell Latitude 3310](dell/latitude/3310)                                          | `<nixos-hardware/dell/latitude/3310>`                   | `dell-latitude-3310`                   |
 | [Dell Latitude 3340](dell/latitude/3340)                                          | `<nixos-hardware/dell/latitude/3340>`                   | `dell-latitude-3340`                   |
 | [Dell Latitude 3480](dell/latitude/3480)                                          | `<nixos-hardware/dell/latitude/3480>`                   | `dell-latitude-3480`                   |
 | [Dell Latitude 5490](dell/latitude/5490)                                          | `<nixos-hardware/dell/latitude/5490>`                   | `dell-latitude-5490`                   |
